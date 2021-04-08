@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="JSP_ServletStudy" />
+        <module name="step10_Filter" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="JSP_ServletStudy" target="1.8" />
+      <module name="step10_Filter" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

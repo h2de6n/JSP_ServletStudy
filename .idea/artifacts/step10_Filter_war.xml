@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="step10_Filter:war">
+    <output-path>$PROJECT_DIR$/step10_Filter/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>step10_Filter</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="step10_Filter-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="step10_Filter:war exploded" />
+    </root>
+  </artifact>
+</component>
